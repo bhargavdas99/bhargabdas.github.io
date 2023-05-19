@@ -1,0 +1,96 @@
+    .profile{
+        width: 13em;
+        border-radius: 112px;
+
+    }
+    h2{
+        color: rgb(7, 14, 98);
+        /* background-color: rgb(8, 8, 97); */
+        font-weight: bold;        
+    }
+    #about{
+        background-color: rgb(5, 73, 85);
+        padding:3em auto;
+        /* background-image: url("images/bg_about1.jpg"); */
+        color: white;
+    }
+    #about h2{
+        color: white;
+    }
+    .navbar{
+        position: sticky;
+        top:0;
+    }
+    nav a:hover{
+        background-color: rgb(21, 95, 63);
+        color:rgb(0, 0, 0);
+        font-weight: bold;
+        border-radius: 23px;
+    }
+    #skills h3{
+        margin:1.5em auto;
+        
+    }
+    #skills h1{
+        margin:0.4em auto;
+    }
+    #skills a{
+        text-decoration: none;
+        color: black;
+        
+        font-size: 1.5em;
+    }
+    #skills img{
+        height:4em;
+        width:5em;
+    }
+    #skills .row{
+        display: inline-block;
+        margin:0.3em auto;
+
+    }
+    .divider{
+        margin:1.5em auto;
+    }
+    .divider img{
+        height: 2em;
+    }
+
+    .bio{
+        text-align: center;
+    }
+    .bio p{
+        font-size: 1.3em;
+    }
+    .bio .row{
+        display: block;
+    }
+    .bio li{
+        font-size: 1.3em;
+    }
+    .education{
+        text-align: center;
+    }
+    .education p{
+        font-size: 1.3em;
+    }
+    .contact{
+        color:white;
+        background-color: rgb(0, 0, 0);
+        margin-top:3em ;
+        padding-top: 1em;
+        height:8em;
+    }
+    .contact img{
+        height:2em;
+        width:2em;
+        
+    }
+    .contact li{
+        margin:0.5em auto;
+    }
+    .contact li a{
+        text-decoration: none;
+        color:white;
+        
+    }
